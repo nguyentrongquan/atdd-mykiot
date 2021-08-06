@@ -1,2 +1,0 @@
-# atdd-mykiot
-ATDD mykiot
